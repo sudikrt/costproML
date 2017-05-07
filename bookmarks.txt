@@ -1,0 +1,12 @@
+How to run Linear regression in Python scikit-Learn
+  http://www.bigdataexaminer.com/2016/03/31/how-to-run-linear-regression-in-python-scikit-learn/
+https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/learn/machine-learning
+DataSprint How to implement logistic regression model in python for binary classification
+http://dataaspirant.com/2017/04/15/implement-logistic-regression-model-python-binary-classification/
+http://francescopochetti.com/stock-market-prediction-part-introduction/
+http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+http://dataconomy.com/2015/02/linear-regression-implementation-in-python/
+https://aqibsaeed.github.io/2016-07-07-TensorflowLR/
+http://aimotion.blogspot.in/2011/10/machine-learning-with-python-linear.html
+https://www.dataquest.io/blog/machine-learning-python/
