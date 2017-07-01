@@ -1,0 +1,387 @@
+moreaddress(13.0254223821, 77.6407241821,"Kalyan Nagar","Pin-560043","Bangalore");
+
+moreaddress(13.0045159307, 77.5982379913,"Jayamahal","Pin-560046","Bangalore");
+
+moreaddress(12.9253481646, 77.4841690063,"Kengeri","Pin-560060","Bangalore");
+
+moreaddress(12.9737802491, 77.5948905945,"Kasturba Road","Pin-560001","Bangalore");
+
+moreaddress(12.9821858949, 77.5864362717,"Kumara Park East","Pin-560001","Bangalore");
+
+moreaddress(13.1393732508, 77.5690984726,"Doddaballapura Main Road","Pin-560064","Bangalore");
+
+moreaddress(12.9318732425, 77.5670814514,"Thyagarajanagar","Pin-560028","Bangalore");
+
+moreaddress(12.5451801735, 77.4165344238,"Kanakapura","Pin-560062","Bangalore");
+
+moreaddress(12.97217018, 77.5766944885,"BVK Iyengar Road","Pin-560053","Bangalore");
+
+moreaddress(12.9709364837, 77.5320625305,"Vijayanagar","Pin-560040","Bangalore");
+
+moreaddress(12.9595192748, 77.5933027267,"K.H Road","Pin-560027","Bangalore");
+
+moreaddress(12.95688446, 77.704668045,"Varthur Road","Pin-560066","Bangalore");
+
+moreaddress(12.9889185703, 77.5822520256,"Crescent Road","Pin-560001","Bangalore");
+
+moreaddress(12.8578705482, 77.7862930298,"Sarjapur","Pin-560035","Bangalore");
+
+moreaddress(13.0085301061, 77.6304674149,"Lingarajapuram","Pin-560084","Bangalore");
+
+moreaddress(12.9747421035, 77.6011991501,"St.Marks Road","Pin-560001","Bangalore");
+
+moreaddress(12.9737802491, 77.6434707642,"HAL 2nd Stage","Pin-560038","Bangalore");
+
+moreaddress(12.9606066506, 77.5814151764,"Kalasipalyam","Pin-560002","Bangalore");
+
+moreaddress(12.9744493656, 77.5778532028,"Kempegowda Road","Pin-560009","Bangalore");
+
+moreaddress(13.0105789831, 77.5827884674,"Sadhashivnagar","Pin-560002","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Ashok Nagar","Pin-560025","Bangalore");
+
+moreaddress(12.8988278244, 77.5406455994,"Subramanyapura","Pin-560061","Bangalore");
+
+moreaddress(12.9682599689, 77.5963068008,"Lavelle Road","Pin-560001","Bangalore");
+
+moreaddress(12.9781712935, 77.6153182983,"Dickenson Road","Pin-560042","Bangalore");
+
+moreaddress(12.9617672099, 77.6145994663,"Austin Town","Pin-560001","Bangalore");
+
+moreaddress(13.0417699978, 77.5734329224,"Nagashettyhalli","Pin-560094","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Cooke Town","Pin-560005","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Kaggalipura","Pin-560062","Bangalore");
+
+moreaddress(12.9876640483, 77.5651931763,"Srirampuram","Pin-560021","Bangalore");
+
+moreaddress(12.903178357, 77.7114486694,"Carmelram","Pin-560035","Bangalore");
+
+moreaddress(12.9662525639, 77.6259613037,"Airport Road","Pin-560008","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Bidadi","Pin-562109","Bangalore");
+
+moreaddress(12.9534549766, 77.6199531555,"Viveknagar","Pin-560047","Bangalore");
+
+moreaddress(12.9653115873, 77.6176357269,"Victoria Road","Pin-560001","Bangalore");
+
+moreaddress(13.0503823736, 77.5123214722,"Dasarahalli","Pin-560057","Bangalore");
+
+moreaddress(12.98640952, 77.59557724,"Cunningham Road","Pin-560052","Bangalore");
+
+moreaddress(12.9741984471, 77.5787115097,"K.G Circle","Pin-560009","Bangalore");
+
+moreaddress(12.9133850788, 77.5876808167,"J P Nagar","Pin-560078","Bangalore");
+
+moreaddress(12.9703928189, 77.6110696793,"Magrath Road","Pin-560025","Bangalore");
+
+moreaddress(12.9112099107, 77.6348876953,"HSR Layout","Pin-560102","Bangalore");
+
+moreaddress(13.0349551383, 77.5296163559,"Tumkur Road","Pin-562123","Bangalore");
+
+moreaddress(12.946010326, 77.5767588615,"Kanakapura Main Road","Pin-560078","Bangalore");
+
+moreaddress(13.0223701502, 77.602250576,"Sultanpalya","Pin-560032","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Mysore Road","Pin-560026","Bangalore");
+
+moreaddress(12.9692218447, 77.5951051712,"Vittal Mallya Road","Pin-560001","Bangalore");
+
+moreaddress(12.9391091871, 77.696814537,"Kadubeesanahalli","Pin-560087","Bangalore");
+
+moreaddress(12.8974055185, 77.6106834412,"Bilekahalli","Pin-560076","Bangalore");
+
+moreaddress(13.0761340949, 77.5078582764,"Chikkabanavara","Pin-560090","Bangalore");
+
+moreaddress(12.9261010669, 77.6083660126,"Balaji Nagar","Pin-560029","Bangalore");
+
+moreaddress(12.9684272519, 77.6544570923,"HAL 3rd Stage","Pin-560075","Bangalore");
+
+moreaddress(13.0390942471, 77.4902629852,"Nagasandra","Pin-560073","Bangalore");
+
+moreaddress(12.9804295147, 77.6042890549,"Infantry Road","Pin-560004","Bangalore");
+
+moreaddress(12.8442724252, 77.6700782776,"Electronic City","Pin-560100","Bangalore");
+
+moreaddress(12.9543750866, 77.509059906,"Bangalore University","Pin-560056","Bangalore");
+
+moreaddress(13.0022161134, 77.5744628906,"Vyalikaval","Pin-560003","Bangalore");
+
+moreaddress(12.9635759988, 77.6371192932,"Domlur","Pin-560071","Bangalore");
+
+moreaddress(13.0056449241, 77.5802135468,"Sankey Road","Pin-560001","Bangalore");
+
+moreaddress(13.0646381226, 77.5862216949,"Sahakara Nagar","Pin-560092","Bangalore");
+
+moreaddress(13.0405157433, 77.5658798218,"RMV 2nd Stage","Pin-560094 ","Bangalore");
+
+moreaddress(13.0381326422, 77.5624895096,"Dollars Colony","Pin-560094","Bangalore");
+
+moreaddress(12.9597283859, 77.655916214,"HAL Airport Road","Pin-560047","Bangalore");
+
+moreaddress(12.9812240692, 77.5973796844,"Queens Road","Pin-560005","Bangalore");
+
+moreaddress(12.9300328532, 77.5577259064,"Kathriguppe","Pin-560085","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Tannery Road","Pin-560045","Bangalore");
+
+moreaddress(13.0264676584, 77.5717163086,"New BEL Road","Pin-560054","Bangalore");
+
+moreaddress(12.9844858977, 77.661151886,"C V Raman Nagar","Pin-560093","Bangalore");
+
+moreaddress(13.070365274, 77.7888679504,"Hoskote","Pin-562114","Bangalore");
+
+moreaddress(13.03733827, 77.7303314209,"Virgonagar","Pin-560049","Bangalore");
+
+moreaddress(13.0383416871, 77.582359314,"Sanjaynagar","Pin-560094","Bangalore");
+
+moreaddress(12.9824786237, 77.5768661499,"Gandhinagar","Pin-560009","Bangalore");
+
+moreaddress(12.957783646, 77.576469183,"Dispensary Road","Pin-560001","Bangalore");
+
+moreaddress(13.0215339157, 77.5881099701,"Ganga Nagar","Pin-560032","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"DJ Halli","Pin-560045","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"K.G Nagar","Pin-560019","Bangalore");
+
+moreaddress(13.2967523618, 77.5511169434,"Rajkunte","Pin-560048","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Kumara Krupa","Pin-560001","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Chamarajpet","Pin-560018","Bangalore");
+
+moreaddress(13.0160983226, 77.6466464996,"HRBR Layout","Pin-560043","Bangalore");
+
+moreaddress(12.9643287856, 77.5783038139,"K.R Market","Pin-560035","Bangalore");
+
+moreaddress(12.9522002758, 77.5777244568,"VV Puram","Pin-560004","Bangalore");
+
+moreaddress(12.9601466076, 77.657289505,"Murugeshpalya","Pin-560017","Bangalore");
+
+moreaddress(12.9721074498, 77.5142097473,"Nagarbhavi","Pin-560072","Bangalore");
+
+moreaddress(12.9745748248, 77.6076793671,"Brigade Road","Pin-560001","Bangalore");
+
+moreaddress(12.9743657261, 77.6130008698,"M.G Road","Pin-560001","Bangalore");
+
+moreaddress(12.9960274083, 77.5748920441,"Palace Guttahalli","Pin-560003","Bangalore");
+
+moreaddress(12.9996026588, 77.6000833511,"Nandidurga Road","Pin-560006","Bangalore");
+
+moreaddress(12.9267703115, 77.6498222351,"Bellandur","Pin-560037","Bangalore");
+
+moreaddress(12.9629904963, 77.5998687744,"Langford Gardens","Pin-560027","Bangalore");
+
+moreaddress(12.9543750866, 77.5979804993,"Shanthinagar","Pin-560027","Bangalore");
+
+moreaddress(13.0058958108, 77.6576328278,"Kasturi Nagar","Pin-560043","Bangalore");
+
+moreaddress(12.9604811844, 77.6465606689,"Kodihalli","Pin-560008","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Haudin Road","Pin-560042","Bangalore");
+
+moreaddress(12.9319987231, 77.5737333298,"KR Road","Pin-560002","Bangalore");
+
+moreaddress(12.9813077064, 77.6117134094,"St. Johns Road","Pin-560042","Bangalore");
+
+moreaddress(12.9776276446, 77.6525688171,"New Thippasandra","Pin-560075","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Gavipuram","Pin-560019","Bangalore");
+
+moreaddress(13.0206140544, 77.5499153137,"Mahalakshmi Layout","Pin-560086","Bangalore");
+
+moreaddress(12.963994214, 77.603302002,"Richmond Town","Pin-560025","Bangalore");
+
+moreaddress(12.9759548712, 77.6901626587,"Doddanekundi","Pin-560054","Bangalore");
+
+moreaddress(13.1644052736, 77.4862289429,"Hesaraghatta","Pin-560088","Bangalore");
+
+moreaddress(12.9754216724, 77.6037955284,"Church Street","Pin-560001","Bangalore");
+
+moreaddress(12.9971773483, 77.5873160362,"Palace Cross Road","Pin-560020","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"St. Thomas Town","Pin-560084","Bangalore");
+
+moreaddress(12.9830640803, 77.6071643829,"Commercial Street","Pin-560001","Bangalore");
+
+moreaddress(12.9386491044, 77.5232219696,"Nayandahalli","Pin-560039","Bangalore");
+
+moreaddress(12.9570517506, 77.6347160339,"Agaram","Pin-560007","Bangalore");
+
+moreaddress(13.0602486102, 77.6412391663,"Kothanur","Pin-560077","Bangalore");
+
+moreaddress(12.9398202224, 77.6299953461,"Ejipura","Pin-560095","Bangalore");
+
+moreaddress(12.9872458729, 77.6484918594,"Old Madras Road","Pin-560016","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Hanumantha Nagar","Pin-560019","Bangalore");
+
+moreaddress(12.9199104693, 77.5541210175,"Padmanabha Nagar","Pin-560070","Bangalore");
+
+moreaddress(12.8906076212, 77.5986242294,"Arakere Gate","Pin-560076","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Ramanagaram","Pin-571511","Bangalore");
+
+moreaddress(12.9615999224, 77.6153826714,"Race Course  Road","Pin-560001","Bangalore");
+
+moreaddress(13.0818191778, 77.5581550598,"Vidyaranyapura","Pin-560097","Bangalore");
+
+moreaddress(13.1760637235, 77.5624895096,"Rajanukunte","Pin-560064","Bangalore");
+
+moreaddress(12.9928493647, 77.5916290283,"Vasanthanagar","Pin-560052","Bangalore");
+
+moreaddress(13.0027178935, 77.6778030396,"Krishnarajapuram","Pin-560036","Bangalore");
+
+moreaddress(12.9656670678, 77.6033234596,"Richmond Road","Pin-560025","Bangalore");
+
+moreaddress(13.0085719201, 77.5643348694,"Malleswaram","Pin-560003","Bangalore");
+
+moreaddress(12.959226519, 77.5697851181,"Kumbalgodu","Pin-560074","Bangalore");
+
+moreaddress(12.9977418624, 77.6199102402,"Cox Town","Pin-560005","Bangalore");
+
+moreaddress(13.2466293486, 77.7083587646,"Devanhalli","Pin-562110","Bangalore");
+
+moreaddress(13.0002089827, 77.6329994202,"Maruthisevanagar","Pin-560033","Bangalore");
+
+moreaddress(13.0622552541, 77.6065635681,"Byatarayanapura","Pin-560092","Bangalore");
+
+moreaddress(12.9723583704, 77.6077651978,"Residency Road","Pin-560001","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Double Road","Pin-560027","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Bhoopasandra","Pin-560094","Bangalore");
+
+moreaddress(12.9833149898, 77.6148033142,"Ulsoor","Pin-560008","Bangalore");
+
+moreaddress(12.9566126124, 77.5816297531,"JC Road","Pin-560002","Bangalore");
+
+moreaddress(12.9874967782, 77.5911140442,"Millers Road","Pin-560001","Bangalore");
+
+moreaddress(12.9217509333, 77.6199531555,"Hosur Road","Pin-560068","Bangalore");
+
+moreaddress(12.9984109144, 77.6148462296,"Frazer Town","Pin-560005","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Nagawara","Pin-560045","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Shampur","Pin-560045","Bangalore");
+
+moreaddress(12.9619449528, 77.5989031792,"Langford Road","Pin-560027","Bangalore");
+
+moreaddress(12.9496072074, 77.5188446045,"Chandra Layout","Pin-560040","Bangalore");
+
+moreaddress(12.9961528566, 77.6172065735,"Wheelers Road","Pin-560005","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Kumara Park West","Pin-560020","Bangalore");
+
+moreaddress(13.0115825085, 77.5102615356,"Viswaneedam","Pin-560091","Bangalore");
+
+moreaddress(13.0209485498, 77.5967788696,"RT Nagar","Pin-560032","Bangalore");
+
+moreaddress(12.9080307849, 77.6287078857,"Bommanahalli","Pin-5600068","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Museum Road","Pin-560025","Bangalore");
+
+moreaddress(13.0346624715, 77.516784668,"Peenya Industrial Area","Pin-560058","Bangalore");
+
+moreaddress(12.9936856959, 77.692565918,"Mahadevapura","Pin-560048","Bangalore");
+
+moreaddress(12.9798858708, 77.6067352295,"Main Guard Cross Road","Pin-560001","Bangalore");
+
+moreaddress(12.9724211005, 77.5982272625,"Walton Road","Pin-560001","Bangalore");
+
+moreaddress(12.899497142, 77.5820159912,"Puttenahalli ","Pin-560078","Bangalore");
+
+moreaddress(12.9707692023, 77.57188797,"Chickpet","Pin-560053","Bangalore");
+
+moreaddress(13.0069829837, 77.592959404,"J C Nagar","Pin-560006","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Cubbon Park","Pin-560001","Bangalore");
+
+moreaddress(12.8834330247, 77.564163208,"Konanakunte","Pin-560062","Bangalore");
+
+moreaddress(12.9543750866, 77.7011489868,"Marathahalli","Pin-560037","Bangalore");
+
+moreaddress(13.0257986821, 77.5670814514,"Mathikere","Pin-560054","Bangalore");
+
+moreaddress(12.9215836189, 77.6280212402,"Madivala","Pin-560068","Bangalore");
+
+moreaddress(12.9648306423, 77.661151886,"Jeevanbheema Nagar","Pin-560075","Bangalore");
+
+moreaddress(12.9324588181, 77.5818443298,"Jayanagar","Pin-560011","Bangalore");
+
+moreaddress(12.9729438509, 77.6393508911,"Indiranagar","Pin-560038","Bangalore");
+
+moreaddress(12.9127157983, 77.510175705,"Raja Rajeshwari Nagar","Pin-560008","Bangalore");
+
+moreaddress(13.0273038762, 77.6271629333,"HBR Layout","Pin-560043","Bangalore");
+
+moreaddress(13.0535596792, 77.5420188904,"Jalahalli","Pin-560013","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Bangalore CBD","Pin-560001","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Mission Road","Pin-560027","Bangalore");
+
+moreaddress(13.032153884, 77.6226997375,"Arabic College","Pin-560045","Bangalore");
+
+moreaddress(13.2116624326, 77.6461315155,"Sadahalli","Pin-562110","Bangalore");
+
+moreaddress(12.9794676823, 77.7241516113,"Whitefield","Pin-560066","Bangalore");
+
+moreaddress(12.9147236343, 77.6163482666,"BTM Layout","Pin-560076","Bangalore");
+
+moreaddress(12.9861586136, 77.5530052185,"Rajajinagar","Pin-560010","Bangalore");
+
+moreaddress(13.0781406098, 77.5960922241,"Jakkur ","Pin-560064","Bangalore");
+
+moreaddress(12.8333933969, 77.5887107849,"Bannerghatta Road","Pin-560083","Bangalore");
+
+moreaddress(12.9881658579, 77.5873374939,"Seshadripuram","Pin-560020","Bangalore");
+
+moreaddress(12.9885840317, 77.6048469543,"Shivajinagar","Pin-560051","Bangalore");
+
+moreaddress(12.9443373401, 77.6002120972,"Wilson Garden","Pin-560027","Bangalore");
+
+moreaddress(12.9297818899, 77.6214981079,"Koramangala","Pin-560034","Bangalore");
+
+moreaddress(13.0266349022, 77.6356601715,"Kammanahalli","Pin-560084","Bangalore");
+
+moreaddress(13.0353314238, 77.5988388062,"Hebbal","Pin-560024","Bangalore");
+
+moreaddress(13.0166000747, 77.5212478638,"Laggere","Pin-560058","Bangalore");
+
+moreaddress(12.9488543761, 77.5457954407,"Banashankari","Pin-560050","Bangalore");
+
+moreaddress(12.945341133, 77.5023651123,"Jnana Bharathi","Pin-560056","Bangalore");
+
+moreaddress(12.995191085, 77.5447654724,"Basaveshwaranagar","Pin-560079","Bangalore");
+
+moreaddress(12.9647469996, 77.7232933044,"Brookefield","Pin-560034","Bangalore");
+
+moreaddress(12.9737802491, 77.5868225098,"Sanjeevini Nagar","Pin-560072","Bangalore");
+
+moreaddress(12.9976164149, 77.6039886475,"Benson Town","Pin-560046","Bangalore");
+
+moreaddress(12.9297400627, 77.5709867477,"Basavangudi","Pin-560004","Bangalore");
+
+moreaddress(13.0292271666, 77.5456237793,"Yeshwanthpur","Pin-560022","Bangalore");
+
+moreaddress(12.9583482495, 77.6679754257,"Vimanapura","Pin-560017","Bangalore");
+
+moreaddress(13.1018831282, 77.599697113,"Yelahanka","Pin-560064","Bangalore");
+
+moreaddress(12.9475996521, 77.606306076,"Adugodi","Pin-560030","Bangalore");
+
+moreaddress(13.0010452891, 77.7262973785,"Kadugodi","Pin-560067","Bangalore");
+
+moreaddress(13.03733827, 77.6517105103,"Hennur","Pin-560043","Bangalore");
+
+moreaddress(12.9060228951, 77.5597000122,"Kumaraswamy Layout","Pin-560078","Bangalore");
+
+moreaddress(12.9890022048, 77.5219345093,"Kamakshipalya","Pin-560079","Bangalore");
+
+moreaddress(12.905813739, 77.6628255844,"Haralur Road","Pin-560102","Bangalore");
+
+moreaddress(13.0181889494, 77.6450157166,"Banaswadi","Pin-560043","Bangalore");
